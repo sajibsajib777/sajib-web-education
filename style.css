@@ -1,0 +1,124 @@
+body{
+	margin: 0;
+	padding:0;
+	overflow: hidden;
+}
+.weapper1{
+	border: 2px solid blue;
+	float: left;
+	width: 40%;
+}
+.header{
+	border: 2px solid blue;
+	width: 100%;
+	height: 200px;
+	position: relative;
+}
+.name{
+	width: 20%;
+	height: 15vh;
+	border: 2px solid blue;
+	border-radius: 100%;
+	position: absolute;
+	left: 40%;
+	top: 5%;
+}
+.name2{
+	position: absolute;
+	top: 50%;
+	left: 40%;
+}
+.profile{
+	border: 2px solid blue;
+	width: 100%;
+	height: 150px;
+}
+.headp{
+	border: 2px solid blue;
+	width: 100%;
+	overflow: hidden;
+}
+.logop{
+	width: 30%;
+	height: 50px;
+	float: left;
+}
+.logop img{
+	width: 100%;
+	height:50px;
+}
+.h1p{
+	width: 70%;
+	height: 50px;
+	float: right;
+	font-size: 30px
+	margin-top:0;
+}
+.contact{
+	border: 2px solid blue;
+	width: 100%;
+	height: 150px;
+}
+.logoc{
+	width: 30%;
+	height: 50px;
+	float: left;
+}
+.logoc img{
+	width: 100%;
+	height:50px;
+}
+.h1c{
+	width: 70%;
+	height: 50px;
+	float: right;
+	font-size: 30px
+	margin-top:0;
+}
+.skill{
+	border: 2px solid blue;
+	width: 100%;
+	height: 200px;
+}
+
+.weapper2{
+	border: 2px solid blue;
+	float: right;
+	width: 58%;
+}
+.education{
+	border: 2px solid blue;
+	width: 100%;
+	height: 275px;
+}
+.heade{
+	border: 2px solid blue;
+	width: 100%;
+	overflow: hidden;
+}
+.logoe{
+	width: 30%;
+	height: 50px;
+	float: left;
+}
+.logoe img{
+
+}
+.h1e{
+	width: 70%;
+	height: 50px;
+	float: right;
+	font-size: 30px
+	margin-top:0;
+}
+.exprence{
+	border: 2px solid blue;
+	width: 100%;
+	height: 225px;
+
+}
+.software{
+	border: 2px solid blue;
+	width: 100%;
+	height: 200px;
+}
